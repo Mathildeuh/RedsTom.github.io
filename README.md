@@ -28,4 +28,4 @@
 ## Statistiques github
 ![Mon activité GitHub](https://activity-graph.herokuapp.com/graph?username=RedsTom&theme=react-dark)
 ![RedsTom's GitHub stats](https://github-readme-stats.vercel.app/api?username=RedsTom&show_icons=true&theme=github_dark)
-![My Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RedsTom&langs_count=5&theme=github_dark)]
+![My Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RedsTom&langs_count=5&theme=github_dark)
