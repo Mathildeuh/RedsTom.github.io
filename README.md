@@ -18,11 +18,14 @@
 ![Spring](https://shields.io/badge/-Spring-white?style=for-the-badge&logo=spring)
 ![Postgres](https://shields.io/badge/-Postgresql-white?style=for-the-badge&logo=postgresql)
 
-* Website: https://redstom.me
-* Github: [@RedsTom](https://github.com/RedsTom)
+  **Me contacter :**
+* Github: [RedsTom](https://github.com/RedsTom)
 * Discord: [@RedsTom#4616](https://discord.com/users/723471302123323434)
+* Mail: [tom.frefre.13@gmail.com](mailto:tom.frefre.13@gmail.com)
+* Twitter: [@MRedsTom](https://twitter.com/MRedsTom)
 
 
-### Statistiques github
+## Statistiques github
 ![Mon activité GitHub](https://activity-graph.herokuapp.com/graph?username=RedsTom&theme=react-dark)
-
+![RedsTom's GitHub stats](https://github-readme-stats.vercel.app/api?username=RedsTom&show_icons=true&theme=github_dark)
+![My Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RedsTom&langs_count=5&theme=github_dark)]
